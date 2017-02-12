@@ -1,0 +1,1 @@
+nodemon --ext "cs,json" --exec "dotnet run web"
